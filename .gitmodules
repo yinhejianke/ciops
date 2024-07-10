@@ -1,0 +1,45 @@
+[submodule "frp"]
+	path = frp
+	url = https://github.com/fatedier/frp.git
+[submodule "pyenv"]
+	path = pyenv
+	url = https://github.com/pyenv/pyenv.git
+[submodule "nvm"]
+	path = nvm
+	url = https://github.com/nvm-sh/nvm.git
+[submodule "g"]
+	path = g
+	url = https://github.com/voidint/g.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/ansible/ansible.git
+[submodule "ditto"]
+	path = ditto
+	url = https://github.com/sabrogden/Ditto.git
+[submodule "hivemq"]
+	path = hivemq
+	url = https://github.com/hivemq/hivemq-community-edition.git
+[submodule "terraform"]
+	path = terraform
+	url = https://github.com/hashicorp/terraform.git
+[submodule "mycli"]
+	path = mycli
+	url = https://github.com/dbcli/mycli.git
+[submodule "iredis"]
+	path = iredis
+	url = https://github.com/laixintao/iredis.git
+[submodule "node-red"]
+	path = node-red
+	url = https://github.com/node-red/node-red.git
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/jenkinsci/jenkins.git
+[submodule "pgcli"]
+	path = pgcli
+	url = https://github.com/dbcli/pgcli.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/nginx/nginx.git
+[submodule "openresty"]
+	path = openresty
+	url = https://github.com/openresty/openresty.git
